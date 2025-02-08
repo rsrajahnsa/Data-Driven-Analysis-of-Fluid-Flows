@@ -26,10 +26,7 @@ To run this project locally, follow these steps:
    ```sh
    cd Data-Driven-Analysis-of-Fluid-Flows
    ```
-3. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
 1. **Data Preprocessing**: Load and clean the fluid flow dataset.
@@ -37,10 +34,6 @@ To run this project locally, follow these steps:
 3. **Model Training**: Train machine learning models to classify and predict flow behavior.
 4. **Evaluation**: Assess model performance using standard evaluation metrics.
 
-Run the main script:
-```sh
-python main.py
-```
 
 ## Results and Insights
 - **Pattern Identification**: Identified key flow characteristics from raw simulation data.
